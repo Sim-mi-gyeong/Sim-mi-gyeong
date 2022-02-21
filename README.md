@@ -1,8 +1,9 @@
 ### Hi there 👋
 
+## My Github Stats 
 <div align = center>
-  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Sim-mi-gyeong&show_icons=true&theme=radical)
-</div>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sim-mi-gyeong&show_icons=true&theme=radical)
 
 <div align = center>
   
