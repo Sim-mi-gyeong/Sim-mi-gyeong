@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-
+<div align = center>
+  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Sim-mi-gyeong&show_icons=true&theme=radical)
+</div>
 
 <div align = center>
   
