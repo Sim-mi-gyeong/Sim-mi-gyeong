@@ -8,12 +8,12 @@
 </div>
 
 
-<!-- ## My BOJ Stats
+## My BOJ Stats
 <div align = center>
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=smigyeong)](https://solved.ac/smigyeong/)
   
-</div> -->
+</div>
 
 <div align = center>
   
