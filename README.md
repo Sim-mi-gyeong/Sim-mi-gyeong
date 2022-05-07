@@ -11,13 +11,13 @@
 
 
 <!-- ## My BOJ Stats -->
-<!-- <div align = center>
+<div align = center>
   
   <h2> My BOJ Stats </h2>
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=smigyeong)](https://solved.ac/smigyeong/)
   
-</div>  -->
+</div> 
 
 <div align = center>
   
@@ -46,8 +46,8 @@
     </br>
     <img src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-square&logo=Spring&logoColor=white">
     <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-    <img src="https://img.shields.io/badge/django-092E20?style=for-square&logo=django&logoColor=white">
-    <img src="https://img.shields.io/badge/fastapi-092E20?style=for-square&logo=fastapi&logoColor=white">
+<!--     <img src="https://img.shields.io/badge/django-092E20?style=for-square&logo=django&logoColor=white">
+    <img src="https://img.shields.io/badge/fastapi-092E20?style=for-square&logo=fastapi&logoColor=white"> -->
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-square&logo=html5&logoColor=white"> 
     <img src="https://img.shields.io/badge/css-1572B6?style=for-square&logo=css3&logoColor=white"> 
     <img src="https://img.shields.io/badge/figma-1DB3F5?style=for-square&logo=figma&logoColor=white"/>
