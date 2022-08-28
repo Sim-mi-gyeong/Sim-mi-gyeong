@@ -19,6 +19,16 @@
   
 </div> 
 
+
+<!-- ## My Language Stats -->
+<!-- 
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sim-mi-gyeong&theme=cobalt&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10)
+
+</div>
+-->
+
 <div align = center>
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSim-mi-gyeong&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -29,7 +39,7 @@
 <div align="center">
     <p class="has-line-data" data-line-start="7" data-line-end="9"><img height="160px" src="https://github-readme-stats.vercel.app/api?username=Sim-mi-gyeong&amp;show_icons=true&amp;theme=material-palenight" alt="Sim-mi-gyeong's GitHub stats" /><img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=Sim-mi-gyeong&theme=material-palenight&ring=7E6BC4&currStreakLabel=7E6BC4&fire=C79ECF" /></a></p>
 </div>
- -->
+-->
  
 <!--  <div align="center">
   
@@ -71,4 +81,34 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+ -->
+ 
+ <!-- 
+ 
+ <div align="center">
+  <img src="http://capsule-render.vercel.app/api?type=Rounded&color=auto&height=100&section=header&text=Sun young,%20Hwang&fontSize=30&animation=twinkling" />
+  </br>
+  <p align="center">
+    ✏️ Tech Spec ✏️<br/>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
+       <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Javscript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/>
+      </br>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat&logo=Amazon RDS&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2S&logoColor=white"/>
+    </p>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syoungee&theme=cobalt&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10)
+
+
+<b>🧸 about me 🧸</b>
+
+<a href="https://velog.io/@syoungee"> <img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white"/></a> <a href="https://www.notion.so/Resume-2022-ver-0ad4bd9f521b48bf94c4aa76e4abfaec"><img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/></a> <a href= "mailto:sunyoungah69@gmail.com" ><img src="https://img.shields.io/badge/gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+
+</div>
+
  -->
