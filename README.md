@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!-- ## My Github Stats  -->
 <div align = center>
   
